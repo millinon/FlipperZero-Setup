@@ -1,0 +1,18 @@
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/RogueMaster/flipperzero-firmware-wPlugins.git
+[submodule "assets/BadUSB"]
+	path = assets/badusb
+	url = https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB.git
+[submodule "assets/infrared"]
+	path = assets/infrared
+	url = https://github.com/logickworkshop/Flipper-IRDB.git
+[submodule "assets/music_player"]
+	path = assets/music_player
+	url = https://github.com/neverfa11ing/FlipperMusicRTTTL.git
+[submodule "assets/nfc/amiibo"]
+	path = assets/nfc/amiibo
+	url = https://github.com/RogueMaster/FlipperAmiibo.git
+[submodule "assets/playground"]
+	path = assets/playground
+	url = https://github.com/UberGuidoZ/Flipper.git

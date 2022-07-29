@@ -1,0 +1,12 @@
+Filetype: Flipper SubGhz RAW File
+Version: 1
+UP: /ext/subghz/Vehicles/Tesla/Tesla_charge_AM270.sub
+DOWN: /ext/subghz/Vehicles/Tesla/Tesla_charge_AM650.sub
+LEFT: /ext/subghz/assets/Left.sub
+RIGHT: /ext/subghz/assets/Right.sub
+OK: /ext/subghz/assets/Ok.sub
+ULABEL: Tesla AM270
+DLABEL: Tesla AM650
+LLABEL: Left Label
+RLABEL: Right Label
+OKLABEL: Ok Label
